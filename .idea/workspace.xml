@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48e6eeb9-3d14-4971-9775-ae3e2863da74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_12648/explanation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_3322/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_3322/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_4109/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_4109/answer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_4109/answer2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob_4109/explanation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob_13412/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob_13412/answer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prob_13412/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob_13412/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="48e6eeb9-3d14-4971-9775-ae3e2863da74" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +12,7 @@
     <session id="-199208497">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -137,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -317,7 +305,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19156626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19156626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
