@@ -1,0 +1,5 @@
+# regarding virtualenv
+.env
+.venv
+.idea
+

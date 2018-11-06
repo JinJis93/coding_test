@@ -4,21 +4,13 @@ test_n = 30
 
 
 class Prob13412:
-    max_test_case_num = 10000
+    max_test_case_num = 30
 
-    def __init__(self, t: int):
-        self.t = t
-        self.case_test_list = [random.randrange(self.max_test_case_num + 1) for _ in range(self.t)]
+    def __init__(self):
+        self.t = int(input())
+        self.case_test_list = [int(input()) for _ in range(self.t)]
 
     def run(self):
-        # print inputs
-        print("here are inputs")
-        print(self.t)
-        for input_num in self.case_test_list:
-            print(input_num)
-
-        # print output
-        print("here are outputs")
         for output_num in self.get_combination_count_list():
             print(output_num)
 
@@ -58,5 +50,5 @@ class Prob13412:
         return gcm * (a // gcm) * (b // gcm)
 
 
-test1 = Prob13412(10)
+test1 = Prob13412()
 test1.run()
